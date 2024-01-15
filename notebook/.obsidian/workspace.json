@@ -73,6 +73,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "CheatSheet/Docker CheatSheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "238c0dfb7106f61a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "CheatSheet/Grid'5000.md",
                 "mode": "source",
                 "source": false
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -207,16 +219,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cce39255be40ea2",
+  "active": "238c0dfb7106f61a",
   "lastOpenFiles": [
+    "Isaac sim.md",
+    "CheatSheet/Docker CheatSheet.md",
+    "CheatSheet/Grid'5000.md",
+    "Ground Segmentation State of art.md",
     "centres de calculs.md",
     "Gaussian splatting State of art.md",
-    "CheatSheet/Grid'5000.md",
     "CheatSheet/genouest.md",
     "CheatSheet/Conda CheatSheet.md",
     "Math and CS state of art.md",
     "CheatSheet/Pip CheatSheet.md",
-    "CheatSheet/Docker CheatSheet.md",
     "CheatSheet/Cuda CheatSheet.md",
     "Gazebo => Isaac Sim.md",
     "Dataset in agricultural field.md",
@@ -240,14 +254,12 @@
     "Réunion.md",
     "Erasor, Patchwork, Patchwork++.md",
     "Biblio/Ways to speed up data processing.md",
-    "Ground Segmentation State of art.md",
     "Best Ground segmentation.md",
     "Biblio/MeshCNN, A Network with an Edge.md",
     "Point2Mesh.md",
     "Biblio/Point2Mesh, A Self-Prior for Deformable Meshes.md",
     "Biblio/A Slope-robust Cascaded Ground Segmentation in 3D Point Cloud forAutonomous Vehicles.md",
     "Biblio/Segmentation of 3D Lidar Data in non-flat Urban Environmentsusing a Local Convexity Criterion.md",
-    "Biblio/Tree segmentation and change detection of large urban areas based onairborne LiDAR.md",
     "Untitled.canvas",
     "Biblio",
     "All_images"
